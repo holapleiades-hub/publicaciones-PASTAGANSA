@@ -1,1 +1,3 @@
-# Publicaciones Pasta Gansa\nVídeo final + texto de cada pieza.
+# Publicaciones Pasta Gansa
+
+Vídeo final + texto de cada pieza.
